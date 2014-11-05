@@ -658,3 +658,29 @@
 [05-Nov-2014 01:35:54 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
 [05-Nov-2014 01:35:54 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
 [05-Nov-2014 01:36:26 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:44:13 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:44:16 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:44:16 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:44:16 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:44:17 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:45:16 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:45:16 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:45:16 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:45:18 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:45:21 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:45:21 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:45:21 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:45:21 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:49:36 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:49:36 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:49:36 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:49:39 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:49:44 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:49:44 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:49:44 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:49:44 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:54:43 UTC] PHP Parse error:  syntax error, unexpected '是' (T_STRING) in /home/youngershen/dev/htdoc/ecshop/upload/admin/includes/inc_menu.php on line 52
+[05-Nov-2014 03:21:19 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 03:21:27 UTC] PHP Strict Standards:  Redefining already defined constructor for class captcha in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_captcha.php on line 119
+[05-Nov-2014 03:21:32 UTC] PHP Strict Standards:  Redefining already defined constructor for class captcha in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_captcha.php on line 119
+[05-Nov-2014 03:21:43 UTC] PHP Strict Standards:  Redefining already defined constructor for class captcha in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_captcha.php on line 119

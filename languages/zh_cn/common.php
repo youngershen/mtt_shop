@@ -239,7 +239,8 @@ $_LANG['anonymous'] = '匿名用户';
 
 /* 其他信息 */
 $_LANG['js_languages']['goodsname_not_null'] = '商品名不能为空！';
-
+$_LANG['bonus'] = "test";
+$_LANG['bonus_cards'] = 'sfsfd';
 /* 商品比较 */
 $_LANG['compare_remove'] = '移除';
 $_LANG['compare_no_goods'] = '您没有选定任何需要比较的商品或者比较的商品数少于 2 个。';
@@ -726,4 +727,7 @@ $_LANG['label_collection'] = '我的收藏';
 $_LANG['article_list'] = '文章列表';
 $_LANG['preferences_price'] = '优惠价格';
 $_LANG['divided_into'] = '分成规则';
+
+//购物卡菜单国际化
+$_LANG['bonus_cards'] = '购物卡管理';
 ?>
