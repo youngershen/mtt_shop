@@ -1,0 +1,18 @@
+
+{include file="pageheader.htm"}
+{insert_scripts files="../js/utils.js,listtable.js"}
+{insert_scripts files="../js/bonus_card_list.js"}
+<script>
+    redirect_to_main();
+</script>
+        <div align="center">
+            <p>
+                {if $state}
+                删除成功
+
+                {else}
+                删除失败
+                {/if}
+            </p>
+        </div>
+{include file="pagefooter.htm"}

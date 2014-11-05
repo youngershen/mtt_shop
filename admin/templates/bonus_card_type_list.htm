@@ -1,0 +1,57 @@
+
+{include file="pageheader.htm"}
+{insert_scripts files="../js/utils.js,listtable.js"}
+{insert_scripts files="../js/bonus_card_list.js"}
+<div id = "bonus_card_menu" class="list-div"  >
+    <button>充值卡管理</button> &nbsp <button>充值卡类型管理</button>
+    </br>
+    {if $page_type == "bonus_card"}
+
+    <table cellpadding="3" cellspacing="1">
+        <th>ID</th>
+        <th>金额</th>
+        <th>描述</th>
+        <th>是否可用</th>
+        <th>更新时间</th>
+        <th>创建时间</th>
+        <th>操作</th>
+
+        {foreach from = $cards_types item = item}
+        <tr>
+            <td>{$item.id}</td>
+            <td>{$item.bonus}</td>
+            <td>{$item.description}</td>
+            <td>
+                {if $item.is_avaliable}
+                是
+                {else}
+                否
+                {/if}
+            </td>
+
+            <td>{$item.modified_time}</td>
+            <td>{$item.created_time}</td>
+            <td>
+                <a href="bonus_cards.php?act=delete&id={$item.id}">删除</a> &nbsp
+                <a href="bonus_cards.php?act=delete&id={$item.id}">查看</a> &nbsp
+
+            </td>
+        </tr>
+
+        {/foreach}
+
+    </table>
+    <table cellpadding="4" cellspacing="0">
+        <tr>
+            <td align="right">{include file="page.htm"}</td>
+        </tr>
+    </table>
+
+    {/if}
+
+    {if $page_type == "bonus_card_type"}
+    bonus card type
+    {/if}
+
+</div>
+{include file="pagefooter.htm"}

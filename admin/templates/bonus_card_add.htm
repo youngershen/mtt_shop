@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>{$lang.cp_home}{if $ur_here} - {$ur_here} {/if}</title>
+    <meta name="robots" content="noindex, nofollow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="styles/general.css" rel="stylesheet" type="text/css" />
+    <link href="styles/main.css" rel="stylesheet" type="text/css" />
+    <script language="JavaScript">
+
+    </script>
+</head>
+<body>
+
+<h1>
+    {if $action_link}
+    <span class="action-span"><a href="{$action_link.href}">{$action_link.text}</a></span>
+    {/if}
+    {if $action_link2}
+    <span class="action-span"><a href="{$action_link2.href}">{$action_link2.text}</a>&nbsp;&nbsp;</span>
+    {/if}
+    <span class="action-span1"><a href="index.php?act=main">{$lang.cp_home}</a> </span><span id="search_id" class="action-span1">{if $ur_here} - {$ur_here} {/if}</span>
+    <div style="clear:both"></div>
+</h1>
+
+{insert_scripts files="../js/bonus_card_list.js"}
+{insert_scripts files="../js/jquery-ui-1.11.2/external/jquery/jquery.js"}
+{insert_scripts files="../js/jquery-ui-1.11.2/jquery-ui.min.js"}
+{insert_scripts files="../js/jquery-ui-timepicker-addon.js"}
+
+
+<link rel="stylesheet" href="../js/jquery-ui-1.11.2/jquery-ui.min.css"/>
+<link rel="stylesheet" href="../js/jquery-ui-1.11.2/jquery-ui.theme.min.css"/>
+<link rel="stylesheet" href="../js/jquery-ui-1.11.2/jquery-ui.structure.min.css"/>
+<link rel="stylesheet" href="../js/jquery-ui-timepicker-addon.css"/>
+
+
+<script>
+    $(document).ready(function(){
+        $("#start_time").datetimepicker({
+                    dateFormat: 'yy-mm-dd',
+                    timeFormat:'HH:mm:ss',
+                    stepHour: 2,
+                    stepMinute: 10,
+                    stepSecond: 10
+                }
+          );
+        $("#end_time").datetimepicker({
+                    dateFormat: 'yy-mm-dd',
+                    timeFormat:'HH:mm:ss',
+                    stepHour: 2,
+                    stepMinute: 10,
+                    stepSecond: 10
+                }
+        );
+
+    });
+</script>
+
+<div id="add_bonus_card" align="center">
+            <form action="bonus_cards.php?act=add" method="post">充值卡类型:&nbsp
+                <select name="type" id="">
+                    {foreach from = $types item =item}
+                    <option value="{$item.id}">{$item.description}</option>
+                    {/foreach}
+                </select>
+                <br>
+                <span>开始时间:&nbsp</span><input type="text" name="start_time" id="start_time"/>
+                <br>
+                <span>结束时间:&nbsp</span><input type="text" name="end_time" id="end_time" />
+                <br>
+
+                <span>添加数量:&nbsp</span><input type="text" name="count"/>
+                <br>
+                <button type="submit">提交</button>
+            </form>
+
+        </div>
+{include file="pagefooter.htm"}
