@@ -136,6 +136,6 @@ if("list" == $act){
         $smarty->assign("filter", array('page'=>$current_page, 'page_size'=>PAGE_SIZE));
         $smarty->assign("cards", $res);
     }
-    $smarty->display("bonus_card.htm");
+    $smarty->display("bonus_card_list.htm");
 }
 ?>
