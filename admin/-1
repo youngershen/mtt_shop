@@ -1,0 +1,660 @@
+[05-Nov-2014 01:14:24 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:14:29 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 552
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:31 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:14:33 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:14:38 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:14:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:22:56 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:23:09 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:22 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:24:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:24:25 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:31 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:24:36 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:24:52 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:24:56 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:24:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:00 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:25:07 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 552
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:09 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:25:19 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:19 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:25:23 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:25:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:17 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:26:22 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 552
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:24 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:26:27 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:26:30 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:26:30 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:34 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:26:56 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:26:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:27:05 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:27:05 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:27:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:27:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:27:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:27:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:27:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:27:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:27:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:27:09 UTC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /home/youngershen/dev/htdoc/ecshop/upload/includes/lib_base.php on line 346
+[05-Nov-2014 01:28:10 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 552
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 422
+[05-Nov-2014 01:28:16 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:29:10 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:29:15 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:29:17 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:29:19 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:29:19 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 553
+[05-Nov-2014 01:31:29 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:32:09 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:32:09 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:32:09 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:35:53 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:35:54 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:35:54 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
+[05-Nov-2014 01:36:26 UTC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/youngershen/dev/htdoc/ecshop/upload/includes/cls_template.php on line 300
