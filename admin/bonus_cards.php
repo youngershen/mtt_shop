@@ -87,6 +87,27 @@ function find_card_type_by_keywards($keywards){
 // card_type operation end
 
 //card operation
+function delete_bonus_card_by_id($id){
+    $sql = "select id from user_bonus_card where id = " . $id . ";";
+    $res = $GLOBALS['db']->getRow($sql);
+    if($res != False){
+        $sql = "delete from user_bonus_card where id = " . $id . ";";
+        $res = $GLOBALS['db']->query($sql);
+        if($res){
+            return True;
+        }else{
+            return False;
+        }
+    }else{
+
+    }
+}
+
+function update_bonus_card_by_id($id, $type, $time_start, $time_end){
+
+
+}
+
 function get_all_card_count(){
     $sql = "select count(*) from user_bonus_card";
     $res = $GLOBALS['db']->getOne($sql);
