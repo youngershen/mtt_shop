@@ -1199,7 +1199,7 @@
       <column name="time_end" sqlType="TIMESTAMP" precision="19" scale="0" nullable="false" jdbcType="93" def="JzAwMDAtMDAtMDAgMDA6MDA6MDAn"/>
       <primary-key name="PRIMARY" columns="id"/>
       <index name="unique_keycode" unique="true" columns="keycode"/>
-      <index name="type" unique="false" columns="type"/>
+      <index name="fk_card_type" unique="false" columns="type"/>
       <index name="user" unique="false" columns="user"/>
     </table>
     <table name="user_bonus_card_type" schema="" catalog="ecshop" type="TABLE">

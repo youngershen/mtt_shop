@@ -3,7 +3,7 @@
 <?php echo $this->smarty_insert_scripts(array('files'=>'../js/utils.js,listtable.js')); ?>
 <?php echo $this->smarty_insert_scripts(array('files'=>'../js/bonus_card_list.js')); ?>
 <div id = "bonus_card_menu" class="list-div"  >
-        <button>充值卡管理</button> &nbsp <button>充值卡类型管理</button>
+        <button onclick="card_admin()">充值卡管理</button> &nbsp <button onclick="type_admin()">充值卡类型管理</button>
         </br>
         <?php if ($this->_var['page_type'] == "bonus_card"): ?>
             <button onclick="add_card()">添加充值卡</button>
@@ -64,7 +64,7 @@
         <?php endif; ?>
 
         <?php if ($this->_var['page_type'] == "bonus_card_type"): ?>
-        <button>添加充值卡类型</button>
+        <button onclick="add_card_type()">添加充值卡类型</button>
          <table cellpadding="3" cellspacing="1">
             <th>ID</th>
             <th>金额</th>
@@ -91,8 +91,9 @@
                     <td><?php echo $this->_var['item']['modified_time']; ?></td>
                     <td><?php echo $this->_var['item']['created_time']; ?></td>
                     <td>
-                        <a href="bonus_cards.php?act=delete&id=<?php echo $this->_var['item']['id']; ?>">删除</a> &nbsp
-                        <a href="bonus_cards.php?act=delete&id=<?php echo $this->_var['item']['id']; ?>">查看</a> &nbsp
+                        <a href="bonus_cards.php?act=delete&id=<?php echo $this->_var['item']['id']; ?>&page_type=bonus_card_type">删除</a> &nbsp
+                        <a href="bonus_cards.php?act=view&id=<?php echo $this->_var['item']['id']; ?>&page_type=bonus_card_type">查看</a> &nbsp
+                        <a href="bonus_cards.php?act=edit&id=<?php echo $this->_var['item']['id']; ?>&page_type=bonus_card_type">编辑</a>
 
                     </td>
                 </tr>

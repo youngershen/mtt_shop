@@ -56,24 +56,6 @@
         <option name="myItemId" value="ecshop" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="user_bonus_card" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="MySQL - ecshop@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="ecshop" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
     </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -85,8 +67,18 @@
       <file leaf-file-name="bonus_card_list.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_list.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-32.791668" vertical-offset="237" max-vertical-offset="1808">
-              <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+            <state vertical-scroll-proportion="-19.307692" vertical-offset="1062" max-vertical-offset="1938">
+              <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bonus_card_list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/bonus_card_list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+              <caret line="19" column="77" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -95,50 +87,87 @@
       <file leaf-file-name="bonus_cards.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/bonus_cards.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72649574" vertical-offset="3655" max-vertical-offset="4288">
-              <caret line="255" column="8" selection-start-line="255" selection-start-column="8" selection-end-line="255" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.29669032" vertical-offset="1840" max-vertical-offset="5746">
+              <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
               <folding>
-                <marker date="1415207801000" expanded="true" signature="1582:1687" placeholder="select id, b..user_bonus_card_type..." />
-                <marker date="1415207801000" expanded="true" signature="1582:1688" placeholder="select id, b..user_bonus_card_type..." />
-                <marker date="1415207801000" expanded="true" signature="1582:1703" placeholder="select id, b..user_bonus_card_type..." />
-                <marker date="1415207801000" expanded="true" signature="1814:1913" placeholder="select id, b..user_bonus_card_type..." />
-                <marker date="1415207801000" expanded="true" signature="2037:2078" placeholder="select count..user_bonus_card_type..." />
-                <marker date="1415207801000" expanded="true" signature="2190:2299" placeholder="select id, b..user_bonus_card_type..." />
-                <marker date="1415207801000" expanded="true" signature="2527:2661" placeholder="insert into ..." />
-                <marker date="1415207801000" expanded="true" signature="2785:2928" placeholder="select id, b..user_bonus_card_type..." />
-                <marker date="1415207801000" expanded="true" signature="3043:3096" placeholder="select count..user_bonus_card_type..." />
-                <marker date="1415207801000" expanded="true" signature="3191:3235" placeholder="delete from ..." />
-                <marker date="1415207801000" expanded="true" signature="3529:3577" placeholder="select * fro..user_bonus_card..." />
-                <marker date="1415207801000" expanded="true" signature="3672:3711" placeholder="delete from ..." />
-                <marker date="1415207801000" expanded="true" signature="4024:4060" placeholder="select count..user_bonus_card..." />
-                <marker date="1415207801000" expanded="true" signature="4199:4499" placeholder="select user_..user_bonus_card..." />
-                <marker date="1415207801000" expanded="true" signature="4199:4513" placeholder="select user_..user_bonus_card..." />
-                <marker date="1415207801000" expanded="true" signature="4610:4870" placeholder="select user_..user_bonus_card..." />
-                <marker date="1415207801000" expanded="true" signature="4610:4873" placeholder="select user_..user_bonus_card..." />
-                <marker date="1415207801000" expanded="true" signature="5290:5471" placeholder="insert into ..." />
+                <marker date="1415240208378" expanded="true" signature="1582:1703" placeholder="select id, b..user_bonus_card_type..." />
+                <marker date="1415240208378" expanded="true" signature="1814:1913" placeholder="select id, b..user_bonus_card_type..." />
+                <marker date="1415240208378" expanded="true" signature="2037:2078" placeholder="select count..user_bonus_card_type..." />
+                <marker date="1415240208378" expanded="true" signature="2190:2299" placeholder="select id, b..user_bonus_card_type..." />
+                <marker date="1415240208378" expanded="true" signature="2563:2712" placeholder="insert into ..." />
+                <marker date="1415240208378" expanded="true" signature="2563:2735" placeholder="insert into ..." />
+                <marker date="1415240208378" expanded="true" signature="2859:3002" placeholder="select id, b..user_bonus_card_type..." />
+                <marker date="1415240208378" expanded="true" signature="3117:3170" placeholder="select count..user_bonus_card_type..." />
+                <marker date="1415240208378" expanded="true" signature="3265:3309" placeholder="delete from ..." />
+                <marker date="1415240208378" expanded="true" signature="3560:3609" placeholder="select count..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="3560:3610" placeholder="select count..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="3751:3987" placeholder="select user_..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="3751:4024" placeholder="select user_..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="3751:4074" placeholder="select user_..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="4287:4326" placeholder="UPDATE user_..." />
+                <marker date="1415240208378" expanded="true" signature="4287:4327" placeholder="UPDATE user_..." />
+                <marker date="1415240208378" expanded="true" signature="4287:4342" placeholder="UPDATE user_..." />
+                <marker date="1415240208378" expanded="true" signature="4287:4359" placeholder="UPDATE user_..." />
+                <marker date="1415240208378" expanded="true" signature="4287:4382" placeholder="UPDATE user_..." />
+                <marker date="1415240208378" expanded="true" signature="4287:4400" placeholder="UPDATE user_..." />
+                <marker date="1415240208378" expanded="true" signature="4287:4432" placeholder="UPDATE user_..." />
+                <marker date="1415240208378" expanded="true" signature="4287:4433" placeholder="UPDATE user_..." />
+                <marker date="1415240208378" expanded="true" signature="4581:4629" placeholder="select count..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="4724:4763" placeholder="delete from ..." />
+                <marker date="1415240208378" expanded="true" signature="5076:5112" placeholder="select count..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="5251:5551" placeholder="select user_..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="5662:5922" placeholder="select user_..user_bonus_card..." />
+                <marker date="1415240208378" expanded="true" signature="6342:6523" placeholder="insert into ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ecshop.user_bonus_card_type" pinned="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..user_bonus_card_type">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+      <file leaf-file-name="MySQL - ecshop@localhost" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://db-console:/60c96cb2/c6772fdc-71df-41f9-b13d-ed53fff194f3/">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="90" selection-start-line="0" selection-start-column="90" selection-end-line="0" selection-end-column="90" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="bonus_card_type_edit.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_edit.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="595">
+              <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bonus_card_add_result.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_add_result.htm">
+      <file leaf-file-name="bonus_card_type_add_result.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_add_result.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="416">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="442">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bonus_card_type_add.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_add.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="493">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bonus_cards_type_view.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/templates/bonus_cards_type_view.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1139">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -147,8 +176,8 @@
       <file leaf-file-name="bonus_card_type_list.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_list.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-32.666668" vertical-offset="0" max-vertical-offset="1008">
-              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state vertical-scroll-proportion="-23.23077" vertical-offset="8" max-vertical-offset="1088">
+              <caret line="36" column="57" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,41 +186,8 @@
       <file leaf-file-name="bonus_card_add.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_add.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-35.333332" vertical-offset="0" max-vertical-offset="1360">
-              <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ecshop.user_bonus_card" pinned="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..user_bonus_card">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MySQL - ecshop@localhost" pinned="false" current-in-tab="false">
-        <entry file="dbDummy://db-console:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="96">
-              <caret line="0" column="289" selection-start-line="0" selection-start-column="289" selection-end-line="0" selection-end-column="289" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bonus_card_delete_result.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_delete_result.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="384">
-              <caret line="5" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="-34.0" vertical-offset="102" max-vertical-offset="1445">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -218,7 +214,6 @@
         <option value="dbtable:/60c96cb2/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..ecs_users" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card.htm.html" />
         <option value="$PROJECT_DIR$/admin/goods.php" />
-        <option value="db-console:/60c96cb2/c6772fdc-71df-41f9-b13d-ed53fff194f3/" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card.htm" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_delete_result.htm.html" />
@@ -227,25 +222,35 @@
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_delete_result.htm" />
         <option value="db-console:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_add.htm.html" />
-        <option value="$PROJECT_DIR$/js/bonus_card_list.js" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_add_result.htm.html" />
         <option value="$PROJECT_DIR$/js/jquery-ui-1.11.1/jquery-ui.js" />
         <option value="$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_add.htm" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_add_result.htm" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_list.html" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_delete_result.html" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_delete_result.htm" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_cards_type_view.html" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_cards_type_view.htm" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_add.html" />
+        <option value="$PROJECT_DIR$/js/bonus_card_list.js" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_add_result.html" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_add.htm" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_add_result.htm" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_edit.html" />
+        <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_edit.htm" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_type_list.htm" />
         <option value="$PROJECT_DIR$/admin/templates/bonus_card_list.htm" />
+        <option value="db-console:/60c96cb2/c6772fdc-71df-41f9-b13d-ed53fff194f3/" />
         <option value="$PROJECT_DIR$/admin/bonus_cards.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="22" />
-    <option name="width" value="1238" />
-    <option name="height" value="778" />
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -273,6 +278,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,7 +293,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mtt_shop" />
+              <option name="myItemId" value="upload" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,7 +303,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mtt_shop" />
+              <option name="myItemId" value="upload" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -311,7 +317,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mtt_shop" />
+              <option name="myItemId" value="upload" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -325,7 +331,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,17 +364,20 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
       <option name="VM_PARAMETERS" value="" />
       <option name="USER_CFG_CLASS" />
       <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
       <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -378,9 +386,6 @@
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="2">
@@ -408,28 +413,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1238" height="778" extended-state="6" />
+    <frame x="-1" y="0" width="1922" height="1055" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32361516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53731346" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.058697972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19565217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32870865" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.058697972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.195629" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2006689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20255864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32870865" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -455,6 +460,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_list.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1071">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_add.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1445">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_delete_result.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="408">
+          <caret line="5" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/bonus_list.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="1392">
@@ -467,67 +496,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5280" max-vertical-offset="43104">
           <caret line="330" column="29" selection-start-line="330" selection-start-column="29" selection-end-line="330" selection-end-column="29" />
-          <folding>
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT cat_i.._ecs_table_goods_cat_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._ecs_table_goods_gallery_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT MAX(g..ecs_table_goods_..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT attr_.._ecs_table_attribute_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT g.*, .._ecs_table_goods_attr_ AS..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_products_WHERE product_sn..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_products_WHERE product_sn..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_products_WHERE product_sn..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT artic.._ecs_table_article_ORDER BY..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT produ.._GLOBALS_ecs_table_products_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -544,24 +513,34 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2672">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1415207801000" expanded="true" signature="1582:1687" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1582:1688" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1582:1703" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1814:1913" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2037:2078" placeholder="select count..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2190:2299" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2527:2661" placeholder="insert into ..." />
-            <marker date="1415207801000" expanded="true" signature="2785:2928" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="3043:3096" placeholder="select count..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="3191:3235" placeholder="delete from ..." />
-            <marker date="1415207801000" expanded="true" signature="3529:3577" placeholder="select * fro..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="3672:3711" placeholder="delete from ..." />
-            <marker date="1415207801000" expanded="true" signature="4024:4060" placeholder="select count..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4199:4499" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4199:4513" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4610:4870" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4610:4873" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="5290:5471" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="1582:1703" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="1814:1913" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2037:2078" placeholder="select count..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2190:2299" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2563:2712" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="2563:2735" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="2859:3002" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="3117:3170" placeholder="select count..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="3265:3309" placeholder="delete from ..." />
+            <marker date="1415240208378" expanded="true" signature="3560:3609" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3560:3610" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:3987" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:4024" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:4074" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4326" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4327" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4342" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4359" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4382" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4400" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4432" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4433" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4581:4629" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="4724:4763" placeholder="delete from ..." />
+            <marker date="1415240208378" expanded="true" signature="5076:5112" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="5251:5551" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="5662:5922" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="6342:6523" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -595,24 +574,34 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1415207801000" expanded="true" signature="1582:1687" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1582:1688" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1582:1703" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1814:1913" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2037:2078" placeholder="select count..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2190:2299" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2527:2661" placeholder="insert into ..." />
-            <marker date="1415207801000" expanded="true" signature="2785:2928" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="3043:3096" placeholder="select count..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="3191:3235" placeholder="delete from ..." />
-            <marker date="1415207801000" expanded="true" signature="3529:3577" placeholder="select * fro..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="3672:3711" placeholder="delete from ..." />
-            <marker date="1415207801000" expanded="true" signature="4024:4060" placeholder="select count..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4199:4499" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4199:4513" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4610:4870" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4610:4873" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="5290:5471" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="1582:1703" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="1814:1913" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2037:2078" placeholder="select count..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2190:2299" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2563:2712" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="2563:2735" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="2859:3002" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="3117:3170" placeholder="select count..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="3265:3309" placeholder="delete from ..." />
+            <marker date="1415240208378" expanded="true" signature="3560:3609" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3560:3610" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:3987" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:4024" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:4074" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4326" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4327" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4342" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4359" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4382" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4400" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4432" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4433" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4581:4629" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="4724:4763" placeholder="delete from ..." />
+            <marker date="1415240208378" expanded="true" signature="5076:5112" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="5251:5551" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="5662:5922" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="6342:6523" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -631,10 +620,6 @@
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="e#7#484#0#PHP" expanded="false" />
-            <marker date="1415190839000" expanded="true" signature="-1:-1" placeholder="SELECT ad_ty.._ecs_table_ad_custom_ WHERE..." />
-            <marker date="1415190839000" expanded="true" signature="-1:-1" placeholder="SELECT c.cat.._ecs_table_cat_recommend_ AS..." />
-            <marker date="1415190839000" expanded="true" signature="-1:-1" placeholder="SELECT o.ord.._GLOBALS_ecs_table_order_info_ AS..." />
-            <marker date="1415190839000" expanded="true" signature="-1:-1" placeholder="SELECT link_.._GLOBALS_ecs_table_friend_link_ ORDER..." />
           </folding>
         </state>
       </provider>
@@ -645,7 +630,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#7#484#0#PHP" expanded="false" />
-            <marker date="1415193185000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -661,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="697">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4955157" vertical-offset="0" max-vertical-offset="3842">
           <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.58181816" vertical-offset="1107" max-vertical-offset="22066">
           <caret line="78" column="20" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,165 +757,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..ecs_account_log">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/goods.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41761827" vertical-offset="5280" max-vertical-offset="43104">
           <caret line="346" column="13" selection-start-line="346" selection-start-column="13" selection-end-line="346" selection-end-column="13" />
-          <folding>
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT cat_i.._ecs_table_goods_cat_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._ecs_table_goods_gallery_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT MAX(g..ecs_table_goods_..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT attr_.._ecs_table_attribute_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT g.*, .._ecs_table_goods_attr_ AS..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_products_WHERE product_sn..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_products_WHERE product_sn..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_products_WHERE product_sn..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT artic.._ecs_table_article_ORDER BY..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT produ.._GLOBALS_ecs_table_products_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..ecs_users">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..ecs_user_bonus">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..ecs_user_rank">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/bonus.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="17936">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT.._ecs_table_bonus_type_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._ecs_table_bonus_type_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT type_.._ecs_table_bonus_type_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT min_p.._ecs_table_user_rank_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT.._ecs_table_users_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT user_.._ecs_table_users_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT user_.._ecs_table_users_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT.._ecs_table_users_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT user_.._ecs_table_users_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT user_.._ecs_table_users_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT user_.._ecs_table_users_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT MAX(b..ecs_table_user_bonus_..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT type_.._ecs_table_bonus_type_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT user_.._ecs_table_users_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..GLOBALS_ecs_table_bonus_type_..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._GLOBALS_ecs_table_bonus_type_ ORDER..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT goods.._GLOBALS_ecs_table_goods_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..GLOBALS_ecs_table_user_bonus_..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._GLOBALS_ecs_table_bonus_type_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="SELECT templ.._GLOBALS_ecs_table_mail_templates_ WHERE..." />
-            <marker date="1415189518000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..ecs_user_account">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/page.htm">
@@ -945,27 +781,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..ecs_virtual_card">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="5648">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding>
             <element signature="e#7#484#0#PHP" expanded="false" />
-            <marker date="1415190839000" expanded="true" signature="-1:-1" placeholder="SELECT ad_ty.._ecs_table_ad_custom_ WHERE..." />
-            <marker date="1415190839000" expanded="true" signature="-1:-1" placeholder="SELECT c.cat.._ecs_table_cat_recommend_ AS..." />
-            <marker date="1415190839000" expanded="true" signature="-1:-1" placeholder="SELECT o.ord.._GLOBALS_ecs_table_order_info_ AS..." />
-            <marker date="1415190839000" expanded="true" signature="-1:-1" placeholder="SELECT link_.._GLOBALS_ecs_table_friend_link_ ORDER..." />
           </folding>
         </state>
       </provider>
@@ -976,7 +797,6 @@
           <caret line="310" column="2" selection-start-line="310" selection-start-column="2" selection-end-line="310" selection-end-column="2" />
           <folding>
             <element signature="e#7#484#0#PHP" expanded="false" />
-            <marker date="1415193185000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1009,12 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2519685" vertical-offset="0" max-vertical-offset="265392">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <marker date="1415202418000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1415202418000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1415202418000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1415202418000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1022,111 +836,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="576">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..user_bonus_card">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_add_result.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="442">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_delete_result.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="384">
-          <caret line="5" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="408">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://db-console:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/">
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_delete_result.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="289" selection-start-line="0" selection-start-column="289" selection-end-line="0" selection-end-column="289" />
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="442">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/bonus_card_list.js">
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_cards_type_view.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="256">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="51" />
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_add_result.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="442">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_add.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-35.333332" vertical-offset="0" max-vertical-offset="1360">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        <state vertical-scroll-proportion="-34.0" vertical-offset="102" max-vertical-offset="1445">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/b02a23d1/c6772fdc-71df-41f9-b13d-ed53fff194f3/ecshop..user_bonus_card_type">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_add_result.htm">
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_add.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="416">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="493">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bonus_card_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="19" column="77" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_list.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-32.666668" vertical-offset="0" max-vertical-offset="1008">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state vertical-scroll-proportion="-23.23077" vertical-offset="8" max-vertical-offset="1088">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_list.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-32.791668" vertical-offset="237" max-vertical-offset="1808">
-          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        <state vertical-scroll-proportion="-19.307692" vertical-offset="1062" max-vertical-offset="1938">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/bonus_card_type_edit.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="595">
+          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://db-console:/60c96cb2/c6772fdc-71df-41f9-b13d-ed53fff194f3/">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
+          <caret line="0" column="90" selection-start-line="0" selection-start-column="90" selection-end-line="0" selection-end-column="90" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/bonus_cards.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72649574" vertical-offset="3655" max-vertical-offset="4288">
-          <caret line="255" column="8" selection-start-line="255" selection-start-column="8" selection-end-line="255" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.29669032" vertical-offset="1840" max-vertical-offset="5746">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
           <folding>
-            <marker date="1415207801000" expanded="true" signature="1582:1687" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1582:1688" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1582:1703" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="1814:1913" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2037:2078" placeholder="select count..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2190:2299" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="2527:2661" placeholder="insert into ..." />
-            <marker date="1415207801000" expanded="true" signature="2785:2928" placeholder="select id, b..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="3043:3096" placeholder="select count..user_bonus_card_type..." />
-            <marker date="1415207801000" expanded="true" signature="3191:3235" placeholder="delete from ..." />
-            <marker date="1415207801000" expanded="true" signature="3529:3577" placeholder="select * fro..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="3672:3711" placeholder="delete from ..." />
-            <marker date="1415207801000" expanded="true" signature="4024:4060" placeholder="select count..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4199:4499" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4199:4513" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4610:4870" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="4610:4873" placeholder="select user_..user_bonus_card..." />
-            <marker date="1415207801000" expanded="true" signature="5290:5471" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="1582:1703" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="1814:1913" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2037:2078" placeholder="select count..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2190:2299" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="2563:2712" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="2563:2735" placeholder="insert into ..." />
+            <marker date="1415240208378" expanded="true" signature="2859:3002" placeholder="select id, b..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="3117:3170" placeholder="select count..user_bonus_card_type..." />
+            <marker date="1415240208378" expanded="true" signature="3265:3309" placeholder="delete from ..." />
+            <marker date="1415240208378" expanded="true" signature="3560:3609" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3560:3610" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:3987" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:4024" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="3751:4074" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4326" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4327" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4342" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4359" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4382" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4400" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4432" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4287:4433" placeholder="UPDATE user_..." />
+            <marker date="1415240208378" expanded="true" signature="4581:4629" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="4724:4763" placeholder="delete from ..." />
+            <marker date="1415240208378" expanded="true" signature="5076:5112" placeholder="select count..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="5251:5551" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="5662:5922" placeholder="select user_..user_bonus_card..." />
+            <marker date="1415240208378" expanded="true" signature="6342:6523" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>

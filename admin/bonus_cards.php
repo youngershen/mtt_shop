@@ -85,8 +85,9 @@ function find_card_type_by_id($id){
 function add_card_type($bonus, $des){
 
     //MySQL> INSERT INTO tbl_name (col1,col2) VALUES(col2*2,15);
+    $created_time = get_now_time();
     $modified_time = get_now_time();
-    $sql = "insert into user_bonus_card_type(bonus, description, modified_time) values(" . $bonus . ",'" .  $des .  "','" .  $modified_time .  "');";
+    $sql = "insert into user_bonus_card_type(bonus, description, modified_time, created_time) values(" . $bonus . ",'" .  $des .  "','" .  $modified_time .  "' ,'". $created_time ."' );";
     $res = $GLOBALS['db']->query($sql);
     return $res;
 }
@@ -113,7 +114,21 @@ function delete_card_type_by_id($id){
     }
 
 }
-
+function get_cards_count_by_card_type($id){
+    $sql = "select count(*) from user_bonus_card where type = " . $id . ";";
+    $res = $GLOBALS['db']->getOne($sql);
+    return $res;
+}
+function get_cards_by_card_type($id, $start, $limit){
+    $sql = "select user_bonus_card.id, keycode, description, bonus, is_recharged, user, user_bonus_card.rechagred_time, user_bonus_card.is_avaliable, time_start, time_end from user_bonus_card left join user_bonus_card_type on user_bonus_card.type = user_bonus_card_type.id where type = ". $id ." order by id " . " limit " . $start . "," . $limit . ";";
+    $cards = $GLOBALS['db']->getAll($sql);
+    return $cards;
+}
+function update_card_type($id, $bonus, $description, $is_avaliable){
+    //　　UPDATE users SET age = 24 WHERE id = 123;
+    $sql = "UPDATE user_bonus_card_type set bonus = " . $bonus . "," . "description='" . $description . "'," . "is_avaliable=" . $is_avaliable . " where id = " . $id . ";";
+    $GLOBALS['db']->query($sql);
+}
 // card_type operation end
 
 //card operation
@@ -231,7 +246,7 @@ if("bonus_card" == $page_type){
             $datetime = new DateTime('2008-08-11 14:52:10');
             $datetime2 = new DateTime('2008-08-22 14:52:10');
             //echo json_encode($datetime->getTimestamp() - $datetime2->getTimestamp()) ;
-            $all_types = find_all_card_type();
+            $all_types = find_all_card_type(0,0);
             $smarty->assign("types", $all_types);
             $smarty->display("bonus_card_add.htm");
         }
@@ -252,9 +267,71 @@ if("bonus_card" == $page_type){
         $smarty->assign("filter", array('page'=>$current_page, 'page_size'=>PAGE_SIZE));
         $smarty->assign("cards_types", $res);
         $smarty->display("bonus_card_list.htm");
-    }elseif($act="delete"){
-        
+    }elseif($act=="delete"){
+        $id = $_REQUEST['id'];
+        $res = delete_card_type_by_id($id);
+        if($res){
+            $smarty->assign("state", True);
+            $smarty->display("bonus_card_type_delete_result.htm");
+        }else{
+            $smarty->assign("state", False);
+            $smarty->assign("message", "删除失败");
+            $smarty->display("bonus_card_type_delete_result.htm");
+        }
+    }elseif($act=="view"){
+        $id = $_REQUEST['id'];
+        $card_type = find_card_type_by_id($id);
+        $card_count = get_cards_count_by_card_type($id);
+        $pager = pager($current_page, PAGE_SIZE, $card_count);
+        $cards = get_cards_by_card_type($id, (int)$pager['start'], (int)$pager['limit']);
+        $smarty->assign("type", $card_type);
+        $smarty->assign("cards", $cards);
+        $smarty->display("bonus_cards_type_view.htm");
+    }elseif($act=="add"){
+        if($_REQUEST['bonus'] && $_REQUEST['description']){
+            $bonus = $_REQUEST['bonus'];
+            $desc = $_REQUEST['description'];
+            if(preg_match("/[\d+]/",$bonus)){
+                if((int)$bonus < 0){
+                    //error
+                    $smarty->assign("state", False);
+                    $smarty->assign("message", "金额不能小于0");
+                    $smarty->display("bonus_card_type_add_result.htm");
+                }else{
+                    // correct
+                    add_card_type($bonus, $desc);
+                    $smarty->assign("state", True);
+                    $smarty->display("bonus_card_type_add_result.htm");
+                }
 
+            }else{
+                $smarty->assign("state", False);
+                $smarty->assign("message", "金额必须是数字");
+                $smarty->display("bonus_card_type_add_result.htm");
+                //error
+            }
+
+            echo "post add";
+        }else{
+            $smarty->display("bonus_card_type_add.htm");
+
+        }
+    }elseif($act == "edit"){
+
+        if($_REQUEST['id'] && $_REQUEST['bonus'] && $_REQUEST['description'] ){
+            //do update
+            $id = $_REQUEST['id'];
+            $bonus = $_REQUEST['bonus'];
+            $desc = $_REQUEST['description'];
+            $is_avaliable = $_REQUEST['is_avaliable'];
+            update_card_type($id, $bonus, $desc, $is_avaliable);
+            echo "<script> window.location.href='bonus_cards.php?act=list&page_type=bonus_card_type'</script>";
+        }else{
+            $id = $_REQUEST['id'];
+            $type = find_card_type_by_id($id);
+            $smarty->assign("type", $type);
+            $smarty->display("bonus_card_type_edit.htm");
+        }
     }
 
 }

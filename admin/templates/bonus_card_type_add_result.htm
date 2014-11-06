@@ -1,0 +1,20 @@
+
+{include file="pageheader.htm"}
+{insert_scripts files="../js/utils.js,listtable.js"}
+{insert_scripts files="../js/bonus_card_list.js"}
+<script>
+</script>
+<div align="center">
+    <p>
+        {if $state}
+        添加成功
+
+        {else}
+        {$message}
+        {/if}
+    </p>
+</div>
+<script>
+    window.location.href = "bonus_cards.php?act=add&page_type=bonus_card_type";
+</script>
+{include file="pagefooter.htm"}

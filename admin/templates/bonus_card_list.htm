@@ -3,7 +3,7 @@
 {insert_scripts files="../js/utils.js,listtable.js"}
 {insert_scripts files="../js/bonus_card_list.js"}
 <div id = "bonus_card_menu" class="list-div"  >
-        <button>充值卡管理</button> &nbsp <button>充值卡类型管理</button>
+        <button onclick="card_admin()">充值卡管理</button> &nbsp <button onclick="type_admin()">充值卡类型管理</button>
         </br>
         {if $page_type == "bonus_card"}
             <button onclick="add_card()">添加充值卡</button>
@@ -62,7 +62,7 @@
         {/if}
 
         {if $page_type == "bonus_card_type"}
-        <button>添加充值卡类型</button>
+        <button onclick="add_card_type()">添加充值卡类型</button>
          <table cellpadding="3" cellspacing="1">
             <th>ID</th>
             <th>金额</th>
@@ -87,8 +87,9 @@
                     <td>{$item.modified_time}</td>
                     <td>{$item.created_time}</td>
                     <td>
-                        <a href="bonus_cards.php?act=delete&id={$item.id}">删除</a> &nbsp
-                        <a href="bonus_cards.php?act=delete&id={$item.id}">查看</a> &nbsp
+                        <a href="bonus_cards.php?act=delete&id={$item.id}&page_type=bonus_card_type">删除</a> &nbsp
+                        <a href="bonus_cards.php?act=view&id={$item.id}&page_type=bonus_card_type">查看</a> &nbsp
+                        <a href="bonus_cards.php?act=edit&id={$item.id}&page_type=bonus_card_type">编辑</a>
 
                     </td>
                 </tr>
